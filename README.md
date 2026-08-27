@@ -16,4 +16,3 @@ I’m Sandeep, a software engineer undergrad focused on ML. I enjoy turning idea
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=demon-15&icon=0&color=0)](https://visitcount.itsvg.in)
